@@ -7,10 +7,10 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://www.linkedin.com/in/sky-landry-9b07a2239/)
-[![Medium Badge](https://medium.com/@skytechlandry)
-[![Gmail Badge](skytechlandry@gmail.com)
-[![GetHub Badge](https://github.com/SkyMech66)
+![Linkedin Badge](https://img.shields.io/badge/-Sky%20Landry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)(https://www.linkedin.com/in/sky-landry-9b07a2239/)
+![Medium Badge](https://img.shields.io/badge/Sky%20Landry-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)(https://medium.com/@skytechlandry)
+![Gmail Badge](https://img.shields.io/badge/-SkyTechLandry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SkyTechlandry@gmail.com)](skytechlandry@gmail.com)
+![GetHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)(https://github.com/SkyMech66)
 
 ## ⚡ Technologies
 
