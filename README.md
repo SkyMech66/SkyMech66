@@ -1,8 +1,37 @@
-- 👋 Hi, I’m @SkyMech66
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
+I'm Sky, a newbie when it comes to coding but hey, we all start somewhere!
+
+<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+Jack of trades but finally decided to focus on mastering at least one. Enjoy a good workout, training my dogs 🐶, and kicking back with a cold beer :beer: to play some Halo or Elden ring. 
+Find out more about me & feel free to connect with me here: 
+
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
+
+[![Linkedin Badge](https://www.linkedin.com/in/sky-landry-9b07a2239/)
+[![Medium Badge](https://medium.com/@skytechlandry)
+[![Gmail Badge](skytechlandry@gmail.com)
+[![GetHub Badge](https://github.com/SkyMech66)
+
+## ⚡ Technologies
+
+<!-- Check out the Badges folder for more badges -->
+
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SkyMech66&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyMech66&hide=TeX&layout=compact)
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=SkyMech66%2&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=SkyMech66%2SkyMech66)
 
 <!---
 SkyMech66/SkyMech66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
