@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Sky, a newbie when it comes to coding but hey, we all start somewhere!
+I'm Sky, a beginner when it comes to coding but constantly improving, we all start somewhere!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-Jack of trades but finally decided to focus on mastering at least one. Enjoy a good workout, training my dogs 🐶, and kicking back with a cold beer :beer: to play some Halo or Elden ring. 
+Jack of trades but finally decided to focus on mastering at least one.
 Find out more about me & feel free to connect with me here: 
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
